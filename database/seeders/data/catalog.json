@@ -1,0 +1,1544 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Fiction",
+            "slug": "fiction",
+            "type": "book",
+            "icon": "📖",
+            "created_at": "2026-10-24 08:23:49",
+            "updated_at": "2026-10-24 08:23:49"
+        },
+        {
+            "id": 2,
+            "name": "Science",
+            "slug": "science",
+            "type": "book",
+            "icon": "🔭",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 08:23:51"
+        },
+        {
+            "id": 3,
+            "name": "History",
+            "slug": "history",
+            "type": "book",
+            "icon": "🏰",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 14:19:57"
+        },
+        {
+            "id": 4,
+            "name": "Technology",
+            "slug": "technology",
+            "type": "book",
+            "icon": "💻",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 08:23:51"
+        },
+        {
+            "id": 5,
+            "name": "Bookmarks",
+            "slug": "bookmarks",
+            "type": "accessory",
+            "icon": "🔖",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 08:23:51"
+        },
+        {
+            "id": 6,
+            "name": "Bookshelves",
+            "slug": "bookshelves",
+            "type": "accessory",
+            "icon": "📚",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 08:23:51"
+        },
+        {
+            "id": 7,
+            "name": "Book Holders",
+            "slug": "book-holders",
+            "type": "accessory",
+            "icon": "📖",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 08:23:51"
+        },
+        {
+            "id": 8,
+            "name": "Book Lights",
+            "slug": "book-lights",
+            "type": "accessory",
+            "icon": "💡",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 08:23:51"
+        },
+        {
+            "id": 9,
+            "name": "Classic Fiction",
+            "slug": "classic-fiction",
+            "type": "book",
+            "icon": "🏛️",
+            "created_at": "2026-10-24 13:56:10",
+            "updated_at": "2026-10-24 13:56:10"
+        },
+        {
+            "id": 11,
+            "name": "Literary Fiction",
+            "slug": "literary-fiction",
+            "type": "book",
+            "icon": "✒️",
+            "created_at": "2026-10-24 14:02:28",
+            "updated_at": "2026-10-24 14:02:28"
+        },
+        {
+            "id": 12,
+            "name": "Contemporary Fiction",
+            "slug": "contemporary-fiction",
+            "type": "book",
+            "icon": "🪟",
+            "created_at": "2026-10-24 14:02:40",
+            "updated_at": "2026-10-24 14:02:40"
+        },
+        {
+            "id": 13,
+            "name": "Historical Fiction",
+            "slug": "historical-fiction",
+            "type": "book",
+            "icon": "🏺",
+            "created_at": "2026-10-24 14:02:51",
+            "updated_at": "2026-10-24 14:02:51"
+        },
+        {
+            "id": 14,
+            "name": "Romance",
+            "slug": "romance",
+            "type": "book",
+            "icon": "💘",
+            "created_at": "2026-10-24 14:03:03",
+            "updated_at": "2026-10-24 14:03:03"
+        },
+        {
+            "id": 15,
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "type": "book",
+            "icon": "🧙",
+            "created_at": "2026-10-24 14:03:14",
+            "updated_at": "2026-10-24 14:03:14"
+        },
+        {
+            "id": 16,
+            "name": "Science Fiction",
+            "slug": "science-fiction",
+            "type": "book",
+            "icon": "🚀",
+            "created_at": "2026-10-24 14:03:24",
+            "updated_at": "2026-10-24 14:03:24"
+        },
+        {
+            "id": 17,
+            "name": "Mystery",
+            "slug": "mystery",
+            "type": "book",
+            "icon": "🔎",
+            "created_at": "2026-10-24 14:03:35",
+            "updated_at": "2026-10-24 14:03:35"
+        },
+        {
+            "id": 18,
+            "name": "Thriller",
+            "slug": "thriller",
+            "type": "book",
+            "icon": "⚡",
+            "created_at": "2026-10-24 14:03:47",
+            "updated_at": "2026-10-24 14:03:47"
+        },
+        {
+            "id": 19,
+            "name": "Horror",
+            "slug": "horror",
+            "type": "book",
+            "icon": "👻",
+            "created_at": "2026-10-24 14:03:57",
+            "updated_at": "2026-10-24 14:03:57"
+        },
+        {
+            "id": 20,
+            "name": "Crime Fiction",
+            "slug": "crime-fiction",
+            "type": "book",
+            "icon": "🕵️",
+            "created_at": "2026-10-24 14:04:06",
+            "updated_at": "2026-10-24 14:04:06"
+        },
+        {
+            "id": 21,
+            "name": "Adventure",
+            "slug": "adventure",
+            "type": "book",
+            "icon": "🧭",
+            "created_at": "2026-10-24 14:04:23",
+            "updated_at": "2026-10-24 14:04:23"
+        },
+        {
+            "id": 22,
+            "name": "Dystopian Fiction",
+            "slug": "dystopian-fiction",
+            "type": "book",
+            "icon": "🌆",
+            "created_at": "2026-10-24 14:04:34",
+            "updated_at": "2026-10-24 14:04:34"
+        },
+        {
+            "id": 23,
+            "name": "Satire",
+            "slug": "satire",
+            "type": "book",
+            "icon": "🎭",
+            "created_at": "2026-10-24 14:04:44",
+            "updated_at": "2026-10-24 14:04:44"
+        },
+        {
+            "id": 24,
+            "name": "Short Stories",
+            "slug": "short-stories",
+            "type": "book",
+            "icon": "🪶",
+            "created_at": "2026-10-24 14:04:54",
+            "updated_at": "2026-10-24 14:04:54"
+        },
+        {
+            "id": 25,
+            "name": "Novels",
+            "slug": "novels",
+            "type": "book",
+            "icon": "📚",
+            "created_at": "2026-10-24 14:05:08",
+            "updated_at": "2026-10-24 14:05:08"
+        },
+        {
+            "id": 26,
+            "name": "Drama",
+            "slug": "drama",
+            "type": "book",
+            "icon": "🎬",
+            "created_at": "2026-10-24 14:05:26",
+            "updated_at": "2026-10-24 14:05:26"
+        },
+        {
+            "id": 27,
+            "name": "Magical Realism",
+            "slug": "magical-realism",
+            "type": "book",
+            "icon": "🦋",
+            "created_at": "2026-10-24 14:05:36",
+            "updated_at": "2026-10-24 14:05:36"
+        },
+        {
+            "id": 28,
+            "name": "Biography",
+            "slug": "biography",
+            "type": "book",
+            "icon": "👤",
+            "created_at": "2026-10-24 14:05:45",
+            "updated_at": "2026-10-24 14:05:45"
+        },
+        {
+            "id": 29,
+            "name": "Autobiography",
+            "slug": "autobiography",
+            "type": "book",
+            "icon": "🪞",
+            "created_at": "2026-10-24 14:05:55",
+            "updated_at": "2026-10-24 14:05:55"
+        },
+        {
+            "id": 30,
+            "name": "Memoir",
+            "slug": "memoir",
+            "type": "book",
+            "icon": "📔",
+            "created_at": "2026-10-24 14:06:03",
+            "updated_at": "2026-10-24 14:06:03"
+        },
+        {
+            "id": 31,
+            "name": "Research & Academic",
+            "slug": "research-academic",
+            "type": "book",
+            "icon": "🧑‍🔬",
+            "created_at": "2026-10-24 14:06:17",
+            "updated_at": "2026-10-24 14:06:17"
+        },
+        {
+            "id": 32,
+            "name": "Dictionaries",
+            "slug": "dictionaries",
+            "type": "book",
+            "icon": "📖",
+            "created_at": "2026-10-24 14:06:26",
+            "updated_at": "2026-10-24 14:06:26"
+        },
+        {
+            "id": 33,
+            "name": "Language Learning",
+            "slug": "language-learning",
+            "type": "book",
+            "icon": "🔤",
+            "created_at": "2026-10-24 14:06:35",
+            "updated_at": "2026-10-24 14:06:35"
+        },
+        {
+            "id": 34,
+            "name": "Exam Preparation",
+            "slug": "exam-preparation",
+            "type": "book",
+            "icon": "📝",
+            "created_at": "2026-10-24 14:06:45",
+            "updated_at": "2026-10-24 14:06:45"
+        },
+        {
+            "id": 35,
+            "name": "Study Guides",
+            "slug": "study-guides",
+            "type": "book",
+            "icon": "🗂️",
+            "created_at": "2026-10-24 14:06:54",
+            "updated_at": "2026-10-24 14:06:54"
+        },
+        {
+            "id": 36,
+            "name": "Reference Books",
+            "slug": "reference-books",
+            "type": "book",
+            "icon": "📒",
+            "created_at": "2026-10-24 14:07:07",
+            "updated_at": "2026-10-24 14:07:07"
+        },
+        {
+            "id": 37,
+            "name": "School Textbooks",
+            "slug": "school-textbooks",
+            "type": "book",
+            "icon": "📐",
+            "created_at": "2026-10-24 14:07:20",
+            "updated_at": "2026-10-24 14:07:20"
+        },
+        {
+            "id": 38,
+            "name": "Early Learning",
+            "slug": "early-learning",
+            "type": "book",
+            "icon": "🧩",
+            "created_at": "2026-10-24 14:07:29",
+            "updated_at": "2026-10-24 14:07:29"
+        },
+        {
+            "id": 39,
+            "name": "Young Adult",
+            "slug": "young-adult",
+            "type": "book",
+            "icon": "🎒",
+            "created_at": "2026-10-24 14:10:11",
+            "updated_at": "2026-10-24 14:10:11"
+        },
+        {
+            "id": 40,
+            "name": "Middle Grade Fiction",
+            "slug": "middle-grade-fiction",
+            "type": "book",
+            "icon": "🐾",
+            "created_at": "2026-10-24 14:10:20",
+            "updated_at": "2026-10-24 14:10:20"
+        },
+        {
+            "id": 41,
+            "name": "Children's Fiction",
+            "slug": "childrens-fiction",
+            "type": "book",
+            "icon": "🦊",
+            "created_at": "2026-10-24 14:10:36",
+            "updated_at": "2026-10-24 14:10:36"
+        },
+        {
+            "id": 42,
+            "name": "Picture Books",
+            "slug": "picture-books",
+            "type": "book",
+            "icon": "🖍️",
+            "created_at": "2026-10-24 14:10:43",
+            "updated_at": "2026-10-24 14:10:43"
+        },
+        {
+            "id": 43,
+            "name": "Humor",
+            "slug": "humor",
+            "type": "book",
+            "icon": "😂",
+            "created_at": "2026-10-24 14:11:22",
+            "updated_at": "2026-10-24 14:11:22"
+        },
+        {
+            "id": 45,
+            "name": "Mythology & Folklore",
+            "slug": "mythology-folklore",
+            "type": "book",
+            "icon": "🐉",
+            "created_at": "2026-10-24 14:11:48",
+            "updated_at": "2026-10-24 14:11:48"
+        },
+        {
+            "id": 46,
+            "name": "Culture & Society",
+            "slug": "culture-society",
+            "type": "book",
+            "icon": "🌍",
+            "created_at": "2026-10-24 14:12:00",
+            "updated_at": "2026-10-24 14:12:00"
+        },
+        {
+            "id": 47,
+            "name": "Fashion",
+            "slug": "fashion",
+            "type": "book",
+            "icon": "👗",
+            "created_at": "2026-10-24 14:12:10",
+            "updated_at": "2026-10-24 14:12:10"
+        },
+        {
+            "id": 48,
+            "name": "Crafts & DIY",
+            "slug": "crafts-diy",
+            "type": "book",
+            "icon": "🧵",
+            "created_at": "2026-10-24 14:12:19",
+            "updated_at": "2026-10-24 14:12:19"
+        },
+        {
+            "id": 49,
+            "name": "Gardening",
+            "slug": "gardening",
+            "type": "book",
+            "icon": "🪴",
+            "created_at": "2026-10-24 14:12:28",
+            "updated_at": "2026-10-24 14:12:28"
+        },
+        {
+            "id": 50,
+            "name": "Parenting & Family",
+            "slug": "parenting-family",
+            "type": "book",
+            "icon": "🧸",
+            "created_at": "2026-10-24 14:12:37",
+            "updated_at": "2026-10-24 14:12:37"
+        },
+        {
+            "id": 51,
+            "name": "Fitness & Sports",
+            "slug": "fitness-sports",
+            "type": "book",
+            "icon": "🏅",
+            "created_at": "2026-10-24 14:12:53",
+            "updated_at": "2026-10-24 14:12:53"
+        },
+        {
+            "id": 52,
+            "name": "Health & Wellness",
+            "slug": "health-wellness",
+            "type": "book",
+            "icon": "🩺",
+            "created_at": "2026-10-24 14:13:02",
+            "updated_at": "2026-10-24 14:13:02"
+        },
+        {
+            "id": 53,
+            "name": "Cooking & Food",
+            "slug": "cooking-food",
+            "type": "book",
+            "icon": "🍲",
+            "created_at": "2026-10-24 14:13:11",
+            "updated_at": "2026-10-24 14:13:11"
+        },
+        {
+            "id": 54,
+            "name": "Music",
+            "slug": "music",
+            "type": "book",
+            "icon": "🎼",
+            "created_at": "2026-10-24 14:13:30",
+            "updated_at": "2026-10-24 14:13:30"
+        },
+        {
+            "id": 56,
+            "name": "Photography",
+            "slug": "photography",
+            "type": "book",
+            "icon": "📷",
+            "created_at": "2026-10-24 14:17:33",
+            "updated_at": "2026-10-24 14:17:33"
+        },
+        {
+            "id": 57,
+            "name": "Art & Design",
+            "slug": "art-design",
+            "type": "book",
+            "icon": "🎨",
+            "created_at": "2026-10-24 14:17:44",
+            "updated_at": "2026-10-24 14:17:44"
+        },
+        {
+            "id": 58,
+            "name": "Poetry",
+            "slug": "poetry",
+            "type": "book",
+            "icon": "🌹",
+            "created_at": "2026-10-24 14:18:05",
+            "updated_at": "2026-10-24 14:18:05"
+        },
+        {
+            "id": 59,
+            "name": "Popular Science",
+            "slug": "popular-science",
+            "type": "book",
+            "icon": "🔬",
+            "created_at": "2026-10-24 14:18:15",
+            "updated_at": "2026-10-24 14:18:15"
+        },
+        {
+            "id": 60,
+            "name": "Engineering",
+            "slug": "engineering",
+            "type": "book",
+            "icon": "🔩",
+            "created_at": "2026-10-24 14:18:27",
+            "updated_at": "2026-10-24 14:18:27"
+        },
+        {
+            "id": 61,
+            "name": "Environmental Science",
+            "slug": "environmental-science",
+            "type": "book",
+            "icon": "🌿",
+            "created_at": "2026-10-24 14:19:03",
+            "updated_at": "2026-10-24 14:19:03"
+        },
+        {
+            "id": 62,
+            "name": "Politics",
+            "slug": "politics",
+            "type": "book",
+            "icon": "🏛️",
+            "created_at": "2026-10-24 14:19:34",
+            "updated_at": "2026-10-24 14:19:34"
+        },
+        {
+            "id": 63,
+            "name": "Philosophy",
+            "slug": "philosophy",
+            "type": "book",
+            "icon": "💭",
+            "created_at": "2026-10-24 14:20:26",
+            "updated_at": "2026-10-24 14:20:26"
+        },
+        {
+            "id": 64,
+            "name": "Religion & Spirituality",
+            "slug": "religion-spirituality",
+            "type": "book",
+            "icon": "🕊️",
+            "created_at": "2026-10-24 14:20:35",
+            "updated_at": "2026-10-24 14:20:35"
+        },
+        {
+            "id": 65,
+            "name": "Psychology",
+            "slug": "psychology",
+            "type": "book",
+            "icon": "🧠",
+            "created_at": "2026-10-24 14:20:43",
+            "updated_at": "2026-10-24 14:20:43"
+        },
+        {
+            "id": 66,
+            "name": "Self-Help",
+            "slug": "self-help",
+            "type": "book",
+            "icon": "🌱",
+            "created_at": "2026-10-24 14:20:53",
+            "updated_at": "2026-10-24 14:20:53"
+        },
+        {
+            "id": 67,
+            "name": "Personal Development",
+            "slug": "personal-development",
+            "type": "book",
+            "icon": "🌻",
+            "created_at": "2026-10-24 14:21:04",
+            "updated_at": "2026-10-24 14:21:04"
+        },
+        {
+            "id": 69,
+            "name": "Economics",
+            "slug": "economics",
+            "type": "book",
+            "icon": "📈",
+            "created_at": "2026-10-24 14:21:23",
+            "updated_at": "2026-10-24 14:21:23"
+        },
+        {
+            "id": 70,
+            "name": "Finance & Investing",
+            "slug": "finance-investing",
+            "type": "book",
+            "icon": "💰",
+            "created_at": "2026-10-24 14:21:31",
+            "updated_at": "2026-10-24 14:21:31"
+        },
+        {
+            "id": 71,
+            "name": "Education",
+            "slug": "education",
+            "type": "book",
+            "icon": "🎓",
+            "created_at": "2026-10-24 14:21:40",
+            "updated_at": "2026-10-24 14:21:40"
+        },
+        {
+            "id": 72,
+            "name": "Travel",
+            "slug": "travel",
+            "type": "book",
+            "icon": "🗺️",
+            "created_at": "2026-10-24 14:21:50",
+            "updated_at": "2026-10-24 14:21:50"
+        },
+        {
+            "id": 73,
+            "name": "Journalism",
+            "slug": "journalism",
+            "type": "book",
+            "icon": "📰",
+            "created_at": "2026-10-24 14:24:26",
+            "updated_at": "2026-10-24 14:24:26"
+        },
+        {
+            "id": 74,
+            "name": "True Crime",
+            "slug": "true-crime",
+            "type": "book",
+            "icon": "🚔",
+            "created_at": "2026-10-24 14:24:35",
+            "updated_at": "2026-10-24 14:24:35"
+        },
+        {
+            "id": 75,
+            "name": "Computer Science",
+            "slug": "computer-science",
+            "type": "book",
+            "icon": "🖥️",
+            "created_at": "2026-10-24 14:24:49",
+            "updated_at": "2026-10-24 14:24:49"
+        },
+        {
+            "id": 76,
+            "name": "Programming",
+            "slug": "programming",
+            "type": "book",
+            "icon": "👨‍💻",
+            "created_at": "2026-10-24 14:25:20",
+            "updated_at": "2026-10-24 14:25:20"
+        },
+        {
+            "id": 77,
+            "name": "Software Engineering",
+            "slug": "software-engineering",
+            "type": "book",
+            "icon": "⚙️",
+            "created_at": "2026-10-24 14:25:29",
+            "updated_at": "2026-10-24 14:25:29"
+        },
+        {
+            "id": 78,
+            "name": "Web Development",
+            "slug": "web-development",
+            "type": "book",
+            "icon": "🌐",
+            "created_at": "2026-10-24 14:26:06",
+            "updated_at": "2026-10-24 14:26:06"
+        },
+        {
+            "id": 79,
+            "name": "Artificial Intelligence",
+            "slug": "artificial-intelligence",
+            "type": "book",
+            "icon": "🤖",
+            "created_at": "2026-10-24 14:26:14",
+            "updated_at": "2026-10-24 14:26:14"
+        },
+        {
+            "id": 80,
+            "name": "Data Science",
+            "slug": "data-science",
+            "type": "book",
+            "icon": "📊",
+            "created_at": "2026-10-24 14:26:24",
+            "updated_at": "2026-10-24 14:26:24"
+        },
+        {
+            "id": 81,
+            "name": "Cybersecurity",
+            "slug": "cybersecurity",
+            "type": "book",
+            "icon": "🔐",
+            "created_at": "2026-10-24 14:26:34",
+            "updated_at": "2026-10-24 14:26:34"
+        },
+        {
+            "id": 82,
+            "name": "Networking",
+            "slug": "networking",
+            "type": "book",
+            "icon": "📡",
+            "created_at": "2026-10-24 14:26:44",
+            "updated_at": "2026-10-24 14:26:44"
+        },
+        {
+            "id": 83,
+            "name": "Databases",
+            "slug": "databases",
+            "type": "book",
+            "icon": "🗄️",
+            "created_at": "2026-10-24 14:26:55",
+            "updated_at": "2026-10-24 14:26:55"
+        },
+        {
+            "id": 84,
+            "name": "Mathematics",
+            "slug": "mathematics",
+            "type": "book",
+            "icon": "➗",
+            "created_at": "2026-10-24 14:27:09",
+            "updated_at": "2026-10-24 14:27:09"
+        },
+        {
+            "id": 85,
+            "name": "Physics",
+            "slug": "physics",
+            "type": "book",
+            "icon": "⚛️",
+            "created_at": "2026-10-24 14:27:37",
+            "updated_at": "2026-10-24 14:27:37"
+        },
+        {
+            "id": 86,
+            "name": "Chemistry",
+            "slug": "chemistry",
+            "type": "book",
+            "icon": "🧪",
+            "created_at": "2026-10-24 14:27:45",
+            "updated_at": "2026-10-24 14:27:45"
+        },
+        {
+            "id": 87,
+            "name": "Biology",
+            "slug": "biology",
+            "type": "book",
+            "icon": "🧬",
+            "created_at": "2026-10-24 14:27:53",
+            "updated_at": "2026-10-24 14:27:53"
+        },
+        {
+            "id": 88,
+            "name": "Astronomy",
+            "slug": "astronomy",
+            "type": "book",
+            "icon": "🔭",
+            "created_at": "2026-10-24 14:28:02",
+            "updated_at": "2026-10-24 14:28:02"
+        },
+        {
+            "id": 89,
+            "name": "Cosmology",
+            "slug": "cosmology",
+            "type": "book",
+            "icon": "🌌",
+            "created_at": "2026-10-24 14:28:10",
+            "updated_at": "2026-10-24 14:28:10"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "category_id": 9,
+            "type": "book",
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "isbn": "9788943115167",
+            "description": "Set in Regency-era England, the novel follows Elizabeth Bennet and the wealthy Mr. Darcy as their initial misunderstandings and personal prejudices gradually give way to love. Through witty dialogue and memorable characters, Jane Austen explores social class, marriage, family expectations, pride, and the importance of looking beyond first impressions.",
+            "price": 29900,
+            "stock": 5,
+            "year": 1813,
+            "cover_color": "#7A1F3D",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 15:24:08",
+            "image": "products/R71Wx8pKTsu1ABcOokqaOa1AVmM3CSxz4R1zWqkd.jpg"
+        },
+        {
+            "id": 2,
+            "category_id": 9,
+            "type": "book",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isbn": "9785067945612",
+            "description": "Set in 1920s New York, The Great Gatsby follows Nick Carraway as he becomes acquainted with the mysterious millionaire Jay Gatsby, who throws extravagant parties while longing to reunite with Daisy Buchanan, his former lover. Beneath the glamour and wealth, the novel explores obsession, social class, betrayal, the illusion of success, and the decline of the American Dream.",
+            "price": 49900,
+            "stock": 7,
+            "year": 1925,
+            "cover_color": "#0F5C5C",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 16:07:52",
+            "image": "products/5kbW98cfwcG6y9PF1FU7eEmernUeAlRbjPgmi9fb.jpg"
+        },
+        {
+            "id": 3,
+            "category_id": 9,
+            "type": "book",
+            "title": "One Hundred Years of Solitude",
+            "author": "Gabriel García Márquez",
+            "isbn": "9781576668208",
+            "description": "In the town of Macondo, seven generations of one family are destined to live through extraordinary love, devastating wars, impossible wonders, and haunting repetitions of the past. As the Buendía family rises and falls, the line between reality and magic begins to blur, revealing how loneliness can shape an entire legacy. Gabriel García Márquez's unforgettable masterpiece is a dreamlike tale of family, fate, memory, and the cycles of history.",
+            "price": 20000,
+            "stock": 9,
+            "year": 1967,
+            "cover_color": "#B5532A",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 16:15:51",
+            "image": null
+        },
+        {
+            "id": 4,
+            "category_id": 9,
+            "type": "book",
+            "title": "Things Fall Apart",
+            "author": "Chinua Achebe",
+            "isbn": "9787019822768",
+            "description": "Set in late nineteenth-century Nigeria, Things Fall Apart follows Okonkwo, a respected Igbo warrior determined to avoid the weakness he associates with his father. His life and community are disrupted by the arrival of Christian missionaries and British colonial authorities. The novel explores cultural identity, tradition, masculinity, pride, colonialism, and the devastating consequences of social change.",
+            "price": 39900,
+            "stock": 4,
+            "year": 1958,
+            "cover_color": "#3B4A1F",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 16:13:47",
+            "image": "products/KkMBlBN4AAQDY5yIgjP86tC32JW2aMNDYUSaLN2L.jpg"
+        },
+        {
+            "id": 5,
+            "category_id": 2,
+            "type": "book",
+            "title": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "isbn": "9787800374943",
+            "description": "A Brief History of Time by Stephen Hawking. Edit this description from the admin panel.",
+            "price": 39900,
+            "stock": 11,
+            "year": 1988,
+            "cover_color": "#14213D",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 10:02:45",
+            "image": null
+        },
+        {
+            "id": 6,
+            "category_id": 88,
+            "type": "book",
+            "title": "Cosmos",
+            "author": "Carl Sagan",
+            "isbn": "9785675257616",
+            "description": "Cosmos explores the vast universe and the evolution of matter, life, and human consciousness. Carl Sagan explains scientific discoveries, the origin of life, the evolution of galaxies, space exploration, the human brain, and the history of scientific thought in an accessible and engaging way. The book connects science and civilisation while encouraging readers to understand humanity’s place in the universe.",
+            "price": 59900,
+            "stock": 17,
+            "year": 1980,
+            "cover_color": "#2B2D6E",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 16:14:22",
+            "image": "products/k40QZpTexoP0VOlFuEeB5owWqnlJNLMCsnjDvKrQ.jpg"
+        },
+        {
+            "id": 7,
+            "category_id": 87,
+            "type": "book",
+            "title": "The Selfish Gene",
+            "author": "Richard Dawkins",
+            "isbn": "9781665613183",
+            "description": "What if evolution is best understood not through the survival of individuals, but through the survival of their genes? In The Selfish Gene, Richard Dawkins challenges conventional ways of thinking about life, explaining how genes influence behaviour, cooperation, competition, and survival across generations. Blending evolutionary biology with thought-provoking examples, this influential book offers a fascinating new perspective on why living things behave the way they do.",
+            "price": 47500,
+            "stock": 5,
+            "year": 1976,
+            "cover_color": "#5A3E1B",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 16:16:43",
+            "image": "products/m5E8FP2g0nxN0kf26yb8EAXbphgqAWkuzQUmn9MG.jpg"
+        },
+        {
+            "id": 8,
+            "category_id": 3,
+            "type": "book",
+            "title": "Sapiens",
+            "author": "Yuval Noah Harari",
+            "isbn": "9788744598139",
+            "description": "How did a species of ordinary apes end up ruling the planet—and what did it take to get there? In Sapiens, Yuval Noah Harari traces humanity's astonishing journey from prehistoric hunter-gatherers to the architects of modern civilisation. Through revolutions in thought, farming, money, religion, and science, he challenges familiar ideas about progress and power, inviting readers to question what makes us human and where our future might lead.",
+            "price": 59900,
+            "stock": 16,
+            "year": 2011,
+            "cover_color": "#8C6A00",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 16:17:40",
+            "image": "products/s2dhpBmOu4UjUpyApJpQBQqEwBZpwJbmnXdtpLgG.jpg"
+        },
+        {
+            "id": 9,
+            "category_id": 46,
+            "type": "book",
+            "title": "Guns, Germs, and Steel",
+            "author": "Jared Diamond",
+            "isbn": "9781475150855",
+            "description": "Why did some civilisations conquer vast territories while others struggled to resist them? In Guns, Germs, and Steel, Jared Diamond investigates the forces that shaped the unequal paths of human societies. From geography and domesticated crops to infectious diseases and technological advances, he explores how environmental conditions influenced the rise of powerful civilisations. This thought-provoking work challenges familiar explanations of global inequality and offers a sweeping perspective on the forces that shaped human history.",
+            "price": 58500,
+            "stock": 14,
+            "year": 1997,
+            "cover_color": "#444B54",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 16:18:17",
+            "image": "products/tNuOhcRBAXugJAGfAbKq6BV0tMPlcP7RqmoR6FML.jpg"
+        },
+        {
+            "id": 10,
+            "category_id": 76,
+            "type": "book",
+            "title": "The Pragmatic Programmer",
+            "author": "Andrew Hunt & David Thomas",
+            "isbn": "9781854511832",
+            "description": "Writing code that works is only the beginning—building software that remains reliable, adaptable, and easy to maintain is the real challenge. The Pragmatic Programmer shares practical lessons for developers who want to think beyond simply completing a task. Through real-world examples and timeless programming principles, David Thomas and Andrew Hunt explore debugging, automation, flexible design, problem-solving, and professional growth, helping programmers develop the mindset and habits of truly effective software craftspeople.",
+            "price": 79000,
+            "stock": 10,
+            "year": 1999,
+            "cover_color": "#1F3A5F",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 16:19:32",
+            "image": "products/1xN5eKFmMr6ShxG0D8aSdCFuRZtyo8agPL1pN2P1.jpg"
+        },
+        {
+            "id": 11,
+            "category_id": 75,
+            "type": "book",
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "isbn": "9787206659062",
+            "description": "This book teaches programmers how to write clean, readable, and maintainable code using practical software craftsmanship principles. It covers meaningful naming, effective functions and classes, code formatting, error handling, unit testing, and test-driven development. Through detailed case studies, Robert C. Martin demonstrates how to identify poor coding practices and refactor existing code into simpler, more reliable software. It is suitable for software developers, programmers, and students who want to improve their coding practices.",
+            "price": 95000,
+            "stock": 5,
+            "year": 2008,
+            "cover_color": "#2E6B3A",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-24 16:10:08",
+            "image": "products/7NCgIVwwb9uY2GOSfe4tNb8giOU7hB4r0ftmXVzk.jpg"
+        },
+        {
+            "id": 12,
+            "category_id": 4,
+            "type": "book",
+            "title": "Designing Data-Intensive Applications",
+            "author": "Martin Kleppmann",
+            "isbn": "9783820897256",
+            "description": "Designing Data-Intensive Applications by Martin Kleppmann.",
+            "price": 59900,
+            "stock": 19,
+            "year": 2017,
+            "cover_color": "#6B2E2E",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 10:02:32",
+            "image": "products/8QS5yKQUZWLuAPhHE7Aa2BzT1XUr32jiV4zKm8kE.jpg"
+        },
+        {
+            "id": 13,
+            "category_id": 5,
+            "type": "accessory",
+            "title": "Leather Bookmark Set (3)",
+            "author": null,
+            "isbn": null,
+            "description": "Keep your reading organised with this stylish set of three leather bookmarks. Featuring a smooth finish and a classic design, each bookmark offers a simple and elegant way to mark your favourite pages. Durable and lightweight, they are perfect for books, journals, and notebooks, making this set a practical choice for everyday readers and a thoughtful gift for book lovers.",
+            "price": 40000,
+            "stock": 20,
+            "year": null,
+            "cover_color": "#8A5A2B",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 09:49:32",
+            "image": "products/JjMUGsQFXkx9gsFhI3miQ0w8OB9OFuBgnWt898R7.jpg"
+        },
+        {
+            "id": 14,
+            "category_id": 5,
+            "type": "accessory",
+            "title": "Brass Bookmarks",
+            "author": null,
+            "isbn": null,
+            "description": "Bring a little floral charm to your reading with this elegant brass bookmark, featuring a delicate flower-shaped design and a polished metallic finish. Its slim, lightweight structure fits neatly between pages, making it a beautiful and practical accessory for any book lover. Perfect for everyday reading or as a thoughtful gift.",
+            "price": 20000,
+            "stock": 36,
+            "year": null,
+            "cover_color": "#B08D2E",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 09:49:17",
+            "image": "products/O1CcqNIW0ekunimUAYYLMuitYuVaYkqIyuQEjcNk.jpg"
+        },
+        {
+            "id": 15,
+            "category_id": 5,
+            "type": "accessory",
+            "title": "Magnetic Bookmarks (6 pack)",
+            "author": null,
+            "isbn": null,
+            "description": "Keep your place in any book with this practical and stylish magnetic bookmark. Designed with a secure magnetic closure, it clips neatly over the page without slipping out or damaging the paper. Compact, lightweight, and easy to use, it is perfect for novels, journals, planners, and notebooks, making it an ideal everyday accessory for book lovers.",
+            "price": 70000,
+            "stock": 22,
+            "year": null,
+            "cover_color": "#7A1F3D",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 09:50:25",
+            "image": "products/JbDdzs7OgCNuojB4BYxndKa7jNZsVJM0yrLjuyOC.jpg"
+        },
+        {
+            "id": 16,
+            "category_id": 6,
+            "type": "accessory",
+            "title": "Floating Wall Bookshelf",
+            "author": null,
+            "isbn": null,
+            "description": "Add style and functionality to your walls with this modern floating shelf. Its sleek, space-saving design provides the perfect spot to display books, photo frames, small plants, and decorative accessories. With its clean finish and versatile look, it complements a variety of interior styles, making it a practical and elegant addition to any living room, bedroom, or study.",
+            "price": 200000,
+            "stock": 26,
+            "year": null,
+            "cover_color": "#5A3E1B",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 09:51:04",
+            "image": "products/XD8BAF7kVrdMjZo7ZCfJq72kpw0veOVRgwNW9FvY.jpg"
+        },
+        {
+            "id": 17,
+            "category_id": 6,
+            "type": "accessory",
+            "title": "Tabletop Oak Bookshelf",
+            "author": null,
+            "isbn": null,
+            "description": "Bring warmth and functionality to your space with this elegant oak table shelf. Featuring a natural wood finish and a timeless design, it provides a convenient surface for organising books, displaying decorative pieces, or keeping everyday essentials within reach. Its versatile style complements both modern and traditional interiors, making it a practical addition to your living room, bedroom, or study.",
+            "price": 150000,
+            "stock": 34,
+            "year": null,
+            "cover_color": "#8C6A00",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 09:51:45",
+            "image": "products/4TdsqiFmgJv386MLDzgDEm7vUUWRYSFYA9X90DAH.jpg"
+        },
+        {
+            "id": 18,
+            "category_id": 6,
+            "type": "accessory",
+            "title": "Rolling Book Cart",
+            "author": null,
+            "isbn": null,
+            "description": "Keep your space organised with this versatile rolling storage shelf. Designed with multiple tiers and smooth-rolling wheels, it offers convenient storage for books, stationery, household essentials, and decorative items. Its portable design makes it easy to move between rooms, while the practical shelving provides an efficient storage solution for homes, offices, and study spaces.",
+            "price": 200000,
+            "stock": 12,
+            "year": null,
+            "cover_color": "#444B54",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 09:52:30",
+            "image": "products/z8M2tyPukKFZldEoSy3qt0UV6EIx1awpvyoqf0av.jpg"
+        },
+        {
+            "id": 19,
+            "category_id": 7,
+            "type": "accessory",
+            "title": "Adjustable Wooden Book Stand",
+            "author": null,
+            "isbn": null,
+            "description": "Make reading and studying more comfortable with this adjustable wooden book stand. Crafted with a natural wood finish, it features an adjustable angle to provide a comfortable viewing position for books, textbooks, and notebooks. Its sturdy design helps keep pages open while reducing the need to hold books by hand. Ideal for reading, studying, cooking, or displaying your favourite books, it combines everyday convenience with timeless style.",
+            "price": 70000,
+            "stock": 37,
+            "year": null,
+            "cover_color": "#3B4A1F",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 10:02:01",
+            "image": "products/zmtWFVI44URr4dwxqdaXDBjzvBMSZnRbajDjyorV.jpg"
+        },
+        {
+            "id": 20,
+            "category_id": 7,
+            "type": "accessory",
+            "title": "Hands-free Page Holder",
+            "author": null,
+            "isbn": null,
+            "description": "Enjoy uninterrupted reading with this convenient hands-free page holder. Designed to keep book pages securely open, it allows you to read comfortably without constantly holding the pages down. Lightweight and easy to use, it is ideal for novels, textbooks, cookbooks, and study materials. A practical reading accessory for book lovers who value comfort and convenience.",
+            "price": 20000,
+            "stock": 11,
+            "year": null,
+            "cover_color": "#2B2D6E",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 10:04:26",
+            "image": "products/RC5gY00shokptUJR1CFLcBrAczvmxo5FMfYrxgm9.jpg"
+        },
+        {
+            "id": 21,
+            "category_id": 7,
+            "type": "accessory",
+            "title": "Marble Bookends (pair)",
+            "author": null,
+            "isbn": null,
+            "description": "Keep your books neatly arranged with this elegant pair of marble bookends. Featuring a natural stone finish and a sophisticated design, they provide sturdy support for your favourite novels, textbooks, and decorative books. Their timeless appearance adds a touch of luxury to bookshelves, desks, and reading corners, making them both a practical organiser and a stylish decorative accent.",
+            "price": 200000,
+            "stock": 20,
+            "year": null,
+            "cover_color": "#444B54",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 09:57:07",
+            "image": "products/ToKRwiCz5MI7pvUjt5bCbTPr7n8q8fHXszrvqvld.jpg"
+        },
+        {
+            "id": 22,
+            "category_id": 8,
+            "type": "accessory",
+            "title": "Clip-on Rechargeable Book Light",
+            "author": null,
+            "isbn": null,
+            "description": "Enjoy comfortable reading anytime with this convenient clip-on LED light. Designed with a secure clip and an adjustable neck, it allows you to direct the light exactly where you need it. Its compact, lightweight design makes it ideal for reading books at night, studying, or working at your desk without disturbing others. A practical accessory for every book lover.",
+            "price": 39900,
+            "stock": 36,
+            "year": null,
+            "cover_color": "#B5532A",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 10:03:06",
+            "image": "products/yRfA8exTEbqc6arRlSatse2rCT9imvvIbiseHcpE.jpg"
+        },
+        {
+            "id": 23,
+            "category_id": 8,
+            "type": "accessory",
+            "title": "Neck Reading Light",
+            "author": null,
+            "isbn": null,
+            "description": "Enjoy hands-free reading with this flexible neck reading light, designed to provide focused illumination wherever you need it. Its ergonomic, wearable design rests comfortably around your neck, while adjustable light heads let you direct the brightness onto your book. Ideal for bedtime reading, studying, travelling, or crafting, it offers a convenient way to enjoy your favourite activities without disturbing others.",
+            "price": 22900,
+            "stock": 34,
+            "year": null,
+            "cover_color": "#0F5C5C",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 10:05:14",
+            "image": "products/7sWd1KFfU3qeLX09pydjEuXvwCLUX6sssuENHZJj.jpg"
+        },
+        {
+            "id": 24,
+            "category_id": 8,
+            "type": "accessory",
+            "title": "Warm LED Reading Lamp",
+            "author": null,
+            "isbn": null,
+            "description": "Enjoy comfortable reading anytime with this convenient clip-on LED light. Designed with a secure clip and an adjustable neck, it allows you to direct the light exactly where you need it. Its compact, lightweight design makes it ideal for reading books at night, studying, or working at your desk without disturbing others. A practical accessory for every book lover.",
+            "price": 30000,
+            "stock": 27,
+            "year": null,
+            "cover_color": "#14213D",
+            "created_at": "2026-10-24 08:23:51",
+            "updated_at": "2026-10-25 09:58:25",
+            "image": "products/biDb9HIiIerrIFUzuSSGeQkLWMBHVW4CcBYfZmwI.jpg"
+        },
+        {
+            "id": 25,
+            "category_id": 14,
+            "type": "book",
+            "title": "Below the Barrel",
+            "author": "Tanisha Headley",
+            "isbn": "9781738171446",
+            "description": "Koa and Maliah are thrown back together on the World Surf Championship Tour after a devastating breakup. Forced to work as a team while their every move is filmed for reality TV, they must confront the painful history between them. But Maliah may not know the real reason their relationship ended. As buried truths surface and their futures in surfing hang in the balance, can they overcome their fears and discover whether their love deserves a second chance?",
+            "price": 159000,
+            "stock": 0,
+            "year": 2024,
+            "cover_color": "#B5532A",
+            "created_at": "2026-10-24 16:06:48",
+            "updated_at": "2026-10-24 16:06:48",
+            "image": "products/o9U2MV5Ek2Ztsb8hWJH9RGBS15hrSdXC4GO6FJNv.jpg"
+        },
+        {
+            "id": 26,
+            "category_id": 26,
+            "type": "book",
+            "title": "The Kite Runner",
+            "author": "Khaled Hosseini",
+            "isbn": "9781526604743",
+            "description": "Set in Afghanistan, The Kite Runner follows Amir, a privileged boy, and Hassan, the son of his father's servant. Their childhood friendship is shattered by a traumatic event, leaving Amir burdened by guilt. Years later, after fleeing to America, Amir gets an opportunity to return to Taliban-ruled Afghanistan and confront his past. The novel explores friendship, loyalty, betrayal, family, social inequality, and the possibility of redemption.",
+            "price": 49900,
+            "stock": 10,
+            "year": 2003,
+            "cover_color": "#6B2E2E",
+            "created_at": "2026-10-24 16:12:44",
+            "updated_at": "2026-10-24 16:12:44",
+            "image": "products/vtRVBlw1aQpeev31dQFprC3ch3GJVBZEqczLvHYm.jpg"
+        },
+        {
+            "id": 27,
+            "category_id": 26,
+            "type": "book",
+            "title": "A Thousand Splendid Suns",
+            "author": "Khaled Hosseini",
+            "isbn": "9781408844441",
+            "description": "Two women. One cruel household. A friendship that becomes their only hope.\r\n\r\nMariam and Laila are born a generation apart, yet fate brings them together under the same roof in war-torn Afghanistan. Trapped in an abusive marriage and surrounded by conflict, they discover an unexpected bond that grows stronger than fear, rivalry, or despair. As war reshapes their country and threatens everything they hold dear, both women must find the courage to protect the people they love. A moving story of friendship, sacrifice, resilience, and the extraordinary strength of women in the face of unimaginable hardship.",
+            "price": 59900,
+            "stock": 23,
+            "year": 2007,
+            "cover_color": "#3B4A1F",
+            "created_at": "2026-10-24 16:21:44",
+            "updated_at": "2026-10-24 16:22:04",
+            "image": "products/YRiutu2cW10emxT0TysFDoadqL5MWXsYHnntMARu.jpg"
+        },
+        {
+            "id": 28,
+            "category_id": 12,
+            "type": "book",
+            "title": "Kafka on the Shore",
+            "author": "Haruki Murakami",
+            "isbn": "9780099458326",
+            "description": "A runaway teenager. An old man who talks to cats. And a world where the impossible refuses to stay impossible.\r\n\r\nAt fifteen, Kafka Tamura escapes his home, haunted by a disturbing prophecy and searching for a life beyond his father's shadow. Meanwhile, elderly Nakata sets out on an unexpected journey after a strange encounter turns his quiet existence upside down. Their separate paths begin to intertwine in a world of mysterious forests, unexplained murders, falling fish, and secrets that blur the boundaries between dreams and reality. As the mysteries deepen, both must confront forces they can barely understand in this haunting, surreal exploration of identity, fate, memory, and the hidden connections between people.",
+            "price": 50000,
+            "stock": 0,
+            "year": 2002,
+            "cover_color": "#3B4A1F",
+            "created_at": "2026-10-24 16:24:31",
+            "updated_at": "2026-10-24 16:24:31",
+            "image": "products/TJ60IKWebYIRA8y6VpQtolLgyg2rQMWHYuXJDtnb.jpg"
+        },
+        {
+            "id": 29,
+            "category_id": 5,
+            "type": "accessory",
+            "title": "Brass Bookmark",
+            "author": null,
+            "isbn": null,
+            "description": "Add a touch of timeless elegance to your reading collection with this set of two brass bookmarks. Featuring a sleek metallic finish and a refined design, these bookmarks offer a stylish way to mark your favourite pages. Lightweight yet durable, they fit neatly between pages without adding bulk, making them perfect for everyday reading or as a thoughtful gift for book lovers.",
+            "price": 39900,
+            "stock": 0,
+            "year": null,
+            "cover_color": "#8A5A2B",
+            "created_at": "2026-10-25 10:06:18",
+            "updated_at": "2026-10-25 10:06:18",
+            "image": "products/mCDoArmQW73cBjNWuO8ySXBx2S7EzoQE8ubHZU3z.jpg"
+        },
+        {
+            "id": 30,
+            "category_id": 5,
+            "type": "accessory",
+            "title": "Magnetic Bookmark",
+            "author": null,
+            "isbn": null,
+            "description": "Make every reading session more convenient with this sleek magnetic bookmark. Designed to fold over the page with a secure magnetic grip, it keeps your place neatly marked without slipping out easily. Compact and lightweight, it is perfect for novels, journals, planners, and notebooks. A simple yet thoughtful accessory for readers who love keeping their books organised.",
+            "price": 20000,
+            "stock": 10,
+            "year": null,
+            "cover_color": "#14213D",
+            "created_at": "2026-10-25 10:07:10",
+            "updated_at": "2026-10-25 10:07:10",
+            "image": "products/3rHsD6wfUvj7XXi2CnKOAgPDUVEvsJEwQSad0Mle.jpg"
+        }
+    ],
+    "pivot_table": "category_product",
+    "pivot": [
+        {
+            "id": 2,
+            "category_id": 1,
+            "product_id": 2
+        },
+        {
+            "id": 3,
+            "category_id": 1,
+            "product_id": 3
+        },
+        {
+            "id": 4,
+            "category_id": 1,
+            "product_id": 4
+        },
+        {
+            "id": 5,
+            "category_id": 2,
+            "product_id": 5
+        },
+        {
+            "id": 6,
+            "category_id": 2,
+            "product_id": 6
+        },
+        {
+            "id": 7,
+            "category_id": 2,
+            "product_id": 7
+        },
+        {
+            "id": 8,
+            "category_id": 3,
+            "product_id": 8
+        },
+        {
+            "id": 9,
+            "category_id": 3,
+            "product_id": 9
+        },
+        {
+            "id": 10,
+            "category_id": 4,
+            "product_id": 10
+        },
+        {
+            "id": 11,
+            "category_id": 4,
+            "product_id": 11
+        },
+        {
+            "id": 12,
+            "category_id": 4,
+            "product_id": 12
+        },
+        {
+            "id": 13,
+            "category_id": 5,
+            "product_id": 13
+        },
+        {
+            "id": 14,
+            "category_id": 5,
+            "product_id": 14
+        },
+        {
+            "id": 15,
+            "category_id": 5,
+            "product_id": 15
+        },
+        {
+            "id": 58,
+            "category_id": 5,
+            "product_id": 29
+        },
+        {
+            "id": 59,
+            "category_id": 5,
+            "product_id": 30
+        },
+        {
+            "id": 16,
+            "category_id": 6,
+            "product_id": 16
+        },
+        {
+            "id": 17,
+            "category_id": 6,
+            "product_id": 17
+        },
+        {
+            "id": 18,
+            "category_id": 6,
+            "product_id": 18
+        },
+        {
+            "id": 19,
+            "category_id": 7,
+            "product_id": 19
+        },
+        {
+            "id": 20,
+            "category_id": 7,
+            "product_id": 20
+        },
+        {
+            "id": 21,
+            "category_id": 7,
+            "product_id": 21
+        },
+        {
+            "id": 22,
+            "category_id": 8,
+            "product_id": 22
+        },
+        {
+            "id": 23,
+            "category_id": 8,
+            "product_id": 23
+        },
+        {
+            "id": 24,
+            "category_id": 8,
+            "product_id": 24
+        },
+        {
+            "id": 25,
+            "category_id": 9,
+            "product_id": 1
+        },
+        {
+            "id": 29,
+            "category_id": 9,
+            "product_id": 2
+        },
+        {
+            "id": 41,
+            "category_id": 9,
+            "product_id": 3
+        },
+        {
+            "id": 39,
+            "category_id": 9,
+            "product_id": 4
+        },
+        {
+            "id": 27,
+            "category_id": 11,
+            "product_id": 1
+        },
+        {
+            "id": 30,
+            "category_id": 11,
+            "product_id": 2
+        },
+        {
+            "id": 42,
+            "category_id": 11,
+            "product_id": 3
+        },
+        {
+            "id": 40,
+            "category_id": 11,
+            "product_id": 4
+        },
+        {
+            "id": 38,
+            "category_id": 11,
+            "product_id": 26
+        },
+        {
+            "id": 54,
+            "category_id": 11,
+            "product_id": 27
+        },
+        {
+            "id": 56,
+            "category_id": 11,
+            "product_id": 28
+        },
+        {
+            "id": 55,
+            "category_id": 12,
+            "product_id": 28
+        },
+        {
+            "id": 37,
+            "category_id": 13,
+            "product_id": 26
+        },
+        {
+            "id": 53,
+            "category_id": 13,
+            "product_id": 27
+        },
+        {
+            "id": 26,
+            "category_id": 14,
+            "product_id": 1
+        },
+        {
+            "id": 28,
+            "category_id": 14,
+            "product_id": 25
+        },
+        {
+            "id": 36,
+            "category_id": 26,
+            "product_id": 26
+        },
+        {
+            "id": 52,
+            "category_id": 26,
+            "product_id": 27
+        },
+        {
+            "id": 43,
+            "category_id": 27,
+            "product_id": 3
+        },
+        {
+            "id": 57,
+            "category_id": 27,
+            "product_id": 28
+        },
+        {
+            "id": 50,
+            "category_id": 36,
+            "product_id": 10
+        },
+        {
+            "id": 48,
+            "category_id": 46,
+            "product_id": 9
+        },
+        {
+            "id": 35,
+            "category_id": 59,
+            "product_id": 6
+        },
+        {
+            "id": 45,
+            "category_id": 59,
+            "product_id": 7
+        },
+        {
+            "id": 47,
+            "category_id": 63,
+            "product_id": 8
+        },
+        {
+            "id": 46,
+            "category_id": 65,
+            "product_id": 7
+        },
+        {
+            "id": 31,
+            "category_id": 75,
+            "product_id": 11
+        },
+        {
+            "id": 49,
+            "category_id": 76,
+            "product_id": 10
+        },
+        {
+            "id": 32,
+            "category_id": 76,
+            "product_id": 11
+        },
+        {
+            "id": 51,
+            "category_id": 77,
+            "product_id": 10
+        },
+        {
+            "id": 44,
+            "category_id": 87,
+            "product_id": 7
+        },
+        {
+            "id": 33,
+            "category_id": 88,
+            "product_id": 6
+        },
+        {
+            "id": 34,
+            "category_id": 89,
+            "product_id": 6
+        }
+    ]
+}
