@@ -36,23 +36,27 @@ The frontend is part of this project (Blade views, Tailwind CSS and Alpine.js), 
 
 ## Getting started
 
-Requirements: PHP, Composer and Git.
+Requirements: [Git](https://git-scm.com), PHP and [Composer](https://getcomposer.org).
 
 ```bash
-# 1. Install dependencies
+# 1. Download the project
+git clone https://github.com/salvamuhsin/marginalia-laravel.git
+cd marginalia-laravel
+
+# 2. Install dependencies
 composer install
 
-# 2. Create your environment file and app key
+# 3. Create your environment file and app key
 cp .env.example .env
 php artisan key:generate
 
-# 3. Create the database tables and sample data
+# 4. Create the database tables and sample data
 php artisan migrate --seed
 
-# 4. Make uploaded images (product covers) public
+# 5. Make uploaded images (product covers) public
 php artisan storage:link
 
-# 5. Start the site
+# 6. Start the site
 php artisan serve
 ```
 
@@ -60,15 +64,31 @@ Open http://127.0.0.1:8000.
 
 On Windows use `copy .env.example .env` instead of `cp`.
 
-## Admin login
+## Admin panel
 
-Seeding creates a demo admin:
+The admin panel is at `/admin`. Only users marked as admin can open it.
 
-| Email | Password |
-|---|---|
-| `demo@example.com` | `Demo@12345` |
+### What you can do there
 
-Log in at `/login`, then open `/admin`.
+- See a dashboard of the shop
+- Add, edit and delete products, and upload cover images
+- Manage categories
+- View orders and update their status
+- Read contact messages and newsletter subscribers in the inbox
+
+### Log in as admin
+
+Seeding (`php artisan migrate --seed`) creates a demo admin:
+
+
+1. Go to http://127.0.0.1:8000/login and log in.
+2. Open http://127.0.0.1:8000/admin.
+
+### Create your own admin
+
+```bash
+php artisan shop:admin you@example.com --name="Your Name" --password="YourStrongPassword"
+```
 
 
 ## Useful commands
